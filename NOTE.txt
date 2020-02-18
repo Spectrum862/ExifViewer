@@ -1,0 +1,10 @@
+https://github.com/drewnoakes/metadata-extractor [Library]
+http://tools.science.si/
+https://drewnoakes.com/code/exif/
+https://www.nayuki.io/page/bmp-io-library-java
+https://www.youtube.com/watch?v=CfsWYZ7L9Pg
+
+featrue
+-ADD watermark
+-covert bw
+-dropdown
